@@ -9,3 +9,9 @@ function solution(str) {
 solution('blah blah');
 
 //reversed loop for Reverse String
+
+function nextSolution(str) {
+  return str.split('').reverse().join('');
+}
+
+//for array
